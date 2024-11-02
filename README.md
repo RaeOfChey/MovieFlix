@@ -37,9 +37,20 @@ To start the application, run the following command: node src/server.js.
 Once the server is running, you can test the API using Insomnia with the following endpoints:
 
 - GET `/api/movies`: Retrieve a list of all movies.
+
+<img width="640" alt="MP Capture 1" src="https://github.com/user-attachments/assets/8c9ed53c-328b-43fe-97d5-27ee52c0262d">
+  
 - GET `/api/movie-reviews`: Retrieve a list of all reviews and associated movie names.
+
+<img width="640" alt="MP Capture 2" src="https://github.com/user-attachments/assets/7aac3fe1-177b-468f-9012-dff90019ed8c">
+
 - POST `/api/add-movie`: Add a new movie (send movie details in the request body).
+
+<img width="640" alt="MP Capture 3" src="https://github.com/user-attachments/assets/618409bb-9825-4767-8ad7-d41595a42a17">
+
 - DELETE `/api/movie/:id`: Delete a movie by its ID.
+
+<img width="640" alt="MP Capture 4" src="https://github.com/user-attachments/assets/460be634-9cb9-4013-8082-d8d09653696d">
 
 ## Tools and Technologies
 **Backend Framework**:
